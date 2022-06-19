@@ -1,5 +1,5 @@
 ````
-- Scan Bug Cloudflare Ws Cloudflare
+- Scan Bug Cloudflare Ws / cloudfront
 
 $ pkg update && pkg upgrade -y (enter)
 $ pkg install python ketik y(enter)
